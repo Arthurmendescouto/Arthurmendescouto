@@ -1,10 +1,10 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=ffff&height=120&section=header"/>
   
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=fff&size=25&center=true&vCenter=true&width=1000&lines=Hello,+my+name+is+Gustavo+Viana+de+Souza!;I'm+graduating+in+analysis+and+systems+development+at+PUC+Minas;Be+Welcome!)](https://git.io/typing-svg) 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=fff&size=25&center=true&vCenter=true&width=1000&lines=Hello,+my+name+is+Arthur+Mendes+Couto!;I'm+graduating+in+analysis+and+systems+development+at+PUC+Minas;Be+Welcome!)](https://git.io/typing-svg) 
 
 **`Front-End Developer`**
 
-My name is Gustavo Viana de Souza, and I’m a Systems Analysis and Development student at PUC Minas. I started programming in April 2024, focusing on web development with React.JS, HTML, CSS, and JavaScript. Currently, I’m deepening my knowledge in React.JS.
+My name is Arthur Mendes Couto, and I’m a Systems Analysis and Development student at PUC Minas. I started programming in April 2024, focusing on web development with React.JS, HTML, CSS, and JavaScript. Currently, I’m deepening my knowledge in React.JS.
 
 As a course representative, I help peers with academic and technical challenges. Always open to learning and connecting with others—feel free to reach out via LinkedIn or email at gustavovianadesouzacontatos@gmail.com.
 
@@ -36,6 +36,16 @@ As a course representative, I help peers with academic and technical challenges.
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
 />
+
+<img 
+    align="left" 
+    alt="Java" 
+    title="Java"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-plain-wordmark.svg"
+/>
+
 
 <img 
     align="left" 
