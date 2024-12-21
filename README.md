@@ -1,12 +1,15 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=ffff&height=120&section=header"/>
   
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=fff&size=25&center=true&vCenter=true&width=1000&lines=Hello,+my+name+is+Arthur+Mendes+Couto!;I'm+graduating+in+analysis+and+systems+development+at+PUC+Minas;Be+Welcome!)](https://git.io/typing-svg) 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=fff&size=25&center=true&vCenter=true&width=1000&lines=Hello,+my+name+is+Arthur!;I'm+graduating+in+analysis+and+systems+development+at+PUC+Minas;Be+Welcome!)](https://git.io/typing-svg) 
 
-**`Front-End Developer`**
+**`Full Stack Developer`**
 
-My name is Arthur Mendes Couto, and I’m a Systems Analysis and Development student at PUC Minas. I started programming in April 2024, focusing on web development with React.JS, HTML, CSS, and JavaScript. Currently, I’m deepening my knowledge in React.JS.
-
-As a course representative, I help peers with academic and technical challenges. Always open to learning and connecting with others—feel free to reach out via LinkedIn or email at gustavovianadesouzacontatos@gmail.com.
+Desenvolvedor de software com 10 meses de experiência em programação, com
+conhecimentos em HTML, CSS, JavaScript, Tailwind CSS, MySQL, React Native, Node.js e
+Java. Participei da Residência TIC 36, aplicando React Native, TypeScript e
+Node.js. Sou estudante de Bacharelado em Sistemas de Informação no IFBA de Vitória da
+Conquista, com interesse em aprender novas tecnologias. Em paralelo, estou aprofundando
+meus conhecimentos em Java através de um curso na Udemy.
 
 ---
 
